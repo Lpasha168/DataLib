@@ -1,4 +1,4 @@
-# DateLib Project
+# DataLib Project
 
 
 
@@ -14,4 +14,5 @@
 ## Требования
 - Компилятор C++ (GCC / MSVC)
 - CMake версии 3.10+
+
 
